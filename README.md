@@ -13,7 +13,7 @@ associated with the actor/actress to connect to Channing Tatum.
 --------------------------------------
 **Screenshot Below:**
 ##
-![Alt text](/sixdegrees)
+![Alt text](/sixdegrees.jpg)
 
 
 
